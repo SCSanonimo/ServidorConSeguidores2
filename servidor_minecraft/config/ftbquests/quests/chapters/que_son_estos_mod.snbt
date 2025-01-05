@@ -1,0 +1,61 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "que_son_estos_mod"
+	group: "70575C016B22EAF2"
+	id: "47693D78F7980E06"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "mofus_better_end_:luminion_core_item"
+			id: "6D452E8EDF140B07"
+			rewards: [{
+				id: "1FA0A3A37D0A3D4E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Este mod añade dos nuevos materiales llamados titanio y titanio reforzado."
+			tasks: [{
+				id: "6272EE60121A6B78"
+				type: "checkmark"
+			}]
+			title: "Mod de asteroides"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "256DA4D810A857AD"
+			tasks: [{
+				id: "3F582C6357D847FD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:book"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "mofus_better_end_:titanium_ingot"
+			}
+			id: "31A5F58B8CFF85DF"
+			x: 1.5d
+			y: -1.0d
+		}
+	]
+	title: "Que son estos mods ?¿?¿?"
+}

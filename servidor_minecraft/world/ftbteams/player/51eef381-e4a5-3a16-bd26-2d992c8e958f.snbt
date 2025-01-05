@@ -1,0 +1,17 @@
+{
+	id: "51eef381-e4a5-3a16-bd26-2d992c8e958f"
+	type: "player"
+	player_name: "MEGAnonimo"
+	ranks: {
+		51eef381-e4a5-3a16-bd26-2d992c8e958f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MEGAnonimo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFCD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
