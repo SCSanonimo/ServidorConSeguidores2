@@ -53,6 +53,41 @@
 				id: "mofus_better_end_:titanium_ingot"
 			}
 			id: "31A5F58B8CFF85DF"
+			rewards: [
+				{
+					id: "2C8393A4F6287FFE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 2
+					id: "186EF63BE9506C71"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:titanium_ingot"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Este es un material que se consigue mediantelos asteroides que caen."
+			tasks: [{
+				id: "1CDB186EFA3229C1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:titanium_ingot"
+				}
+				type: "item"
+			}]
 			x: 1.5d
 			y: -1.0d
 		}
