@@ -103,6 +103,20 @@
 					}
 					type: "item"
 				}
+				{
+					count: 15
+					id: "3AD9A7227C0611EB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
 			]
 			subtitle: "Este es un material que se consigue mediantelos asteroides que caen."
 			tasks: [{
@@ -306,6 +320,127 @@
 			]
 			x: 1.5d
 			y: 2.0d
+		}
+		{
+			id: "750C4BE9FB71D8BE"
+			tasks: [{
+				id: "29A67D6BFF8A594B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:ancient_metal_ingot"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "18BA9B15B7EFD966"
+			tasks: [
+				{
+					id: "3C17C542B8ABCDFB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:ignitium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3FA51B5904490FFD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:ignitium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D0E470DEE218AE8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:ignitium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5BAEBD5A00DC4D07"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:ignitium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10114DB7FB109F4D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:ignitium_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "Armadura de ignito"
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			id: "212014390271CEB1"
+			tasks: [{
+				id: "2B027479B24EFA14"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:celestial_crafting_table"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
 		}
 	]
 	title: "Que son estos mods ?¿?¿?"
