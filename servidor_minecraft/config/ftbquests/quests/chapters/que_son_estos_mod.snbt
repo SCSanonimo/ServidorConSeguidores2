@@ -26,6 +26,7 @@
 		}
 		{
 			id: "256DA4D810A857AD"
+			subtitle: "Armadura, cofre con mas espacio."
 			tasks: [{
 				id: "3F582C6357D847FD"
 				item: {
@@ -39,19 +40,12 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: -3.0d
+			title: "Crafteos"
+			x: 4.5d
+			y: -1.0d
 		}
 		{
-			icon: {
-				Count: 1
-				ForgeCaps: {
-					"celestisynth:celestisynthitemstackcapabilities": {
-						cs.aquaSkin: 0
-					}
-				}
-				id: "mofus_better_end_:titanium_ingot"
-			}
+			icon: "mofus_better_end_:titanium_ingot"
 			id: "31A5F58B8CFF85DF"
 			rewards: [
 				{
@@ -89,6 +83,46 @@
 				type: "item"
 			}]
 			x: 1.5d
+			y: -1.0d
+		}
+		{
+			id: "1C15335A8A726E7D"
+			rewards: [
+				{
+					id: "3A9FCC5F266F485E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "4B7CEF69CB570A37"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:reinforced_titanium_ingot"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Ttitanio reforzado se consigue con 4 de titanio y 4 diamantes."
+			tasks: [{
+				id: "17C5965E86D81797"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mofus_better_end_:reinforced_titanium_ingot"
+				}
+				type: "item"
+			}]
+			x: 3.0d
 			y: -1.0d
 		}
 	]
