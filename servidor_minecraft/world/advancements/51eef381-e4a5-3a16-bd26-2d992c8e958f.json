@@ -2074,6 +2074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 20:16:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_gauntlet_white": {
     "criteria": {
       "has_item": "2025-01-06 18:56:53 +0000"
@@ -2109,6 +2115,12 @@
       "has_item": "2025-01-06 18:15:19 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-01-06 20:19:29 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/deathworm_yellow_boots": {
     "criteria": {
@@ -2167,6 +2179,12 @@
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_02": "2025-01-06 18:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-06 20:19:25 +0000"
     },
     "done": true
   },
@@ -2230,9 +2248,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-06 19:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-01-06 20:08:01 +0000"
     },
     "done": true
   },
@@ -2278,15 +2308,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-01-06 19:14:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 18:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-06 20:13:12 +0000"
     },
     "done": true
   },
@@ -2308,6 +2356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-01-06 18:16:03 +0000"
@@ -2317,6 +2371,12 @@
   "iceandfire:recipes/combat/deathworm_red_boots": {
     "criteria": {
       "has_item": "2025-01-06 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-01-06 20:13:51 +0000"
     },
     "done": true
   },
@@ -2374,6 +2434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-01-06 20:08:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-01-06 18:16:03 +0000"
@@ -2422,6 +2488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-01-06 18:38:46 +0000"
@@ -2440,6 +2512,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2025-01-06 20:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-06 19:38:34 +0000"
@@ -2452,9 +2530,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-06 20:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/sea_god_scroll": {
+    "criteria": {
+      "has_trident": "2025-01-06 20:11:35 +0000"
     },
     "done": true
   },
@@ -2463,6 +2553,18 @@
       "has_smooth_sandstone": "2025-01-06 19:26:17 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-01-06 20:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-06 19:52:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
@@ -2476,6 +2578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-06 19:38:34 +0000"
@@ -2485,6 +2593,18 @@
   "minecraft:recipes/decorations/bamboo_mosaic": {
     "criteria": {
       "has_bamboo_slab": "2025-01-06 19:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-06 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
     },
     "done": true
   },
@@ -2503,6 +2623,12 @@
   "iceandfire:recipes/combat/deathworm_yellow_leggings": {
     "criteria": {
       "has_item": "2025-01-06 18:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-06 19:50:55 +0000"
     },
     "done": true
   },
@@ -2572,9 +2698,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-06 20:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-06 20:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-06 19:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
     },
     "done": true
   },
@@ -2590,9 +2740,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-06 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-06 20:17:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 18:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-01-06 20:08:01 +0000"
     },
     "done": true
   },
