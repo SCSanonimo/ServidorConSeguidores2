@@ -56,12 +56,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-06 10:34:03 +0000",
+      "minecraft:bamboo_jungle": "2025-01-06 18:53:23 +0000",
       "minecraft:beach": "2025-01-06 12:04:10 +0000",
       "minecraft:river": "2025-01-06 10:26:53 +0000",
       "minecraft:lukewarm_ocean": "2025-01-06 12:04:18 +0000",
       "minecraft:stony_shore": "2025-01-06 10:17:48 +0000",
       "minecraft:forest": "2025-01-06 10:29:54 +0000",
+      "minecraft:desert": "2025-01-06 18:53:28 +0000",
       "minecraft:jungle": "2025-01-06 12:05:32 +0000",
+      "minecraft:warm_ocean": "2025-01-06 19:01:49 +0000",
       "minecraft:meadow": "2025-01-06 11:15:37 +0000",
       "minecraft:savanna": "2025-01-06 10:17:02 +0000",
       "minecraft:plains": "2025-01-06 10:32:21 +0000"
@@ -766,8 +769,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-06 18:56:10 +0000",
       "minecraft:skeleton": "2025-01-06 10:28:40 +0000",
+      "minecraft:vindicator": "2025-01-06 18:56:26 +0000",
       "minecraft:spider": "2025-01-06 11:43:31 +0000",
+      "minecraft:husk": "2025-01-06 18:37:28 +0000",
       "minecraft:cave_spider": "2025-01-06 11:24:41 +0000",
       "minecraft:stray": "2025-01-06 11:04:23 +0000",
       "minecraft:zombie": "2025-01-06 12:06:07 +0000"
@@ -797,6 +803,7 @@
       "cooked_beef": "2025-01-06 10:36:50 +0000",
       "apple": "2025-01-06 10:29:05 +0000",
       "bread": "2025-01-06 10:43:50 +0000",
+      "golden_apple": "2025-01-06 18:25:43 +0000",
       "golden_carrot": "2025-01-06 18:16:40 +0000",
       "cooked_chicken": "2025-01-06 11:11:54 +0000",
       "enchanted_golden_apple": "2025-01-06 12:06:39 +0000"
@@ -2017,6 +2024,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_gauntlet_yellow": {
+    "criteria": {
+      "has_item": "2025-01-06 18:56:53 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/copper_ingot": {
     "criteria": {
       "has_nuggets_copper": "2025-01-06 18:16:03 +0000"
@@ -2029,9 +2042,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_gauntlet_red": {
+    "criteria": {
+      "has_item": "2025-01-06 18:56:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 18:53:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_gauntlet_white": {
+    "criteria": {
+      "has_item": "2025-01-06 18:56:53 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-06 18:56:20 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 18:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-06 18:59:19 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/misc/celestial_core": {
     "criteria": {
       "has_item": "2025-01-06 18:15:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 18:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-06 18:38:46 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-01-06 18:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_02": "2025-01-06 18:57:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 18:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
     },
     "done": true
   },
@@ -2041,9 +2138,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-06 18:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-01-06 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-06 18:47:34 +0000"
     },
     "done": true
   },
@@ -2053,15 +2162,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-01-06 18:15:19 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-06 18:54:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 18:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-01-06 18:50:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-06 18:42:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-01-06 18:16:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 18:54:46 +0000"
     },
     "done": true
   },
@@ -2089,6 +2246,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-06 18:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-01-06 18:16:03 +0000"
@@ -2101,9 +2270,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-01-06 18:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-01-06 18:15:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 18:53:35 +0000"
     },
     "done": true
   },
@@ -2113,15 +2300,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-06 18:38:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-06 18:46:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-01-06 18:47:34 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/copper_ring": {
     "criteria": {
       "has_nuggets_copper": "2025-01-06 18:16:03 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 18:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-01-06 18:15:19 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_both_discs": {
+    "criteria": {
+      "awake": "2025-01-06 18:27:12 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-06 18:59:04 +0000"
     },
     "done": true
   },
@@ -2134,6 +2387,18 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-01-06 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 18:57:38 +0000"
     },
     "done": true
   },
