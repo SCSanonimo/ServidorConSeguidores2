@@ -26,20 +26,56 @@
 		}
 		{
 			id: "256DA4D810A857AD"
+			rewards: [{
+				id: "3823396E4F596F67"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			subtitle: "Armadura, cofre con mas espacio."
-			tasks: [{
-				id: "3F582C6357D847FD"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			tasks: [
+				{
+					id: "3F582C6357D847FD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "26766FFA3EF9CA0D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:titanium_armor_chestplate"
+						tag: {
+							Damage: 0
 						}
 					}
-					id: "minecraft:book"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "00D806D68B66F958"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "mofus_better_end_:titanium_chest"
+					}
+					type: "item"
+				}
+			]
 			title: "Crafteos"
 			x: 4.5d
 			y: -1.0d
@@ -94,7 +130,7 @@
 					xp_levels: 5
 				}
 				{
-					count: 5
+					count: 3
 					id: "4B7CEF69CB570A37"
 					item: {
 						Count: 1
@@ -124,6 +160,152 @@
 			}]
 			x: 3.0d
 			y: -1.0d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "cataclysm:the_incinerator"
+			}
+			id: "6EAEF4CB31E3EFC6"
+			subtitle: "El cataclism contiene tres materiales nuevos y diversos boses"
+			title: "El cataclism"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "1A24AC616C1B351E"
+			rewards: [
+				{
+					id: "7A090015BCA44F4E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:cursium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "5EB8492536600EF9"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "62A90AD9D5DA772E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:cursium_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "0B33271D4A3AC1E0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 3L
+					id: "648CD241C7FE60BF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:cursium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "6B190B7991671AB4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:cursium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7C4C2F31D817B22F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:cursium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E0A22803F675BF0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:cursium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "106A903376F7661E"
+					item: {
+						Count: 3
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cataclysm:cursium_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 2.0d
 		}
 	]
 	title: "Que son estos mods ?¿?¿?"
