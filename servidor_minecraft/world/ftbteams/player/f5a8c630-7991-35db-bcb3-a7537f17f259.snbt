@@ -1,0 +1,17 @@
+{
+	id: "f5a8c630-7991-35db-bcb3-a7537f17f259"
+	type: "player"
+	player_name: "joaquines"
+	ranks: {
+		f5a8c630-7991-35db-bcb3-a7537f17f259: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "joaquines"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF88"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

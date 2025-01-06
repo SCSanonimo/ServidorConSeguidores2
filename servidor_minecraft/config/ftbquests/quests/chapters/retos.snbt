@@ -36,6 +36,74 @@
 				}
 				type: "item"
 			}
+			{
+				id: "38CD1C18B17821A1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:starlit_factory"
+				}
+				type: "item"
+			}
+			{
+				count: 2
+				id: "0AD8F2D3D90C2792"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:crimson_piece"
+				}
+				type: "item"
+			}
+			{
+				count: 2
+				id: "7A3252BEA41EF1E1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:netherite_ingot"
+				}
+				type: "item"
+			}
+			{
+				id: "449058C0025538E0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:nether_wart_block"
+				}
+				type: "item"
+			}
+			{
+				count: 2
+				id: "1B65F855C851410D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:enchanted_golden_apple"
+				}
+				type: "item"
+			}
 		]
 		tasks: [
 			{

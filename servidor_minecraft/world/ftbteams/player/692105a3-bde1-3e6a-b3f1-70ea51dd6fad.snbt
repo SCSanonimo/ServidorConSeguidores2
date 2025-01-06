@@ -1,0 +1,17 @@
+{
+	id: "692105a3-bde1-3e6a-b3f1-70ea51dd6fad"
+	type: "player"
+	player_name: "OvdSam"
+	ranks: {
+		692105a3-bde1-3e6a-b3f1-70ea51dd6fad: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "OvdSam"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF70"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

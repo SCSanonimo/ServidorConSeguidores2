@@ -424,6 +424,80 @@
 			x: 4.5d
 			y: 2.0d
 		}
+		{
+			id: "67A320662D3677A9"
+			rewards: [
+				{
+					id: "46A07C0A6326710E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "graveyard:upper_bone_staff"
+					}
+					type: "item"
+				}
+				{
+					id: "3526E354FF27B34A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "graveyard:middle_bone_staff"
+					}
+					type: "item"
+				}
+				{
+					id: "361F1D38F7A78567"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "graveyard:lower_bone_staff"
+					}
+					type: "item"
+				}
+				{
+					id: "52635CE1B7082FD2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "graveyard:vial_of_blood"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "No es facil de matar pero si lo quieres imvocar a su tumba tienes que ir a parar para colocar todas las partes de su cuerpo y por ultimo un donativo de sangre enfrascada para levantarlo de su sueño."
+			tasks: [{
+				id: "283DAC89512FE103"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "graveyard:dark_iron_ingot"
+				}
+				type: "item"
+			}]
+			title: "Mata al boss del The Graveyard"
+			x: 0.0d
+			y: 5.0d
+		}
 	]
 	title: "Que son estos mods ?¿?¿?"
 }
