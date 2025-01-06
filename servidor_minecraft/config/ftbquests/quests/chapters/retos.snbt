@@ -7,10 +7,24 @@
 	order_index: 2
 	quest_links: [ ]
 	quests: [{
+		icon: {
+			Count: 1
+			ForgeCaps: {
+				"celestisynth:celestisynthitemstackcapabilities": {
+					cs.aquaSkin: 0
+				}
+			}
+			id: "minecraft:enchanted_golden_apple"
+		}
 		id: "1D75C6D52CA10754"
-		tasks: [
+		rewards: [
 			{
-				id: "06C79D299D45C154"
+				id: "5918FD979210DF35"
+				type: "xp_levels"
+				xp_levels: 40
+			}
+			{
+				id: "5F9758EFE9F0F1C1"
 				item: {
 					Count: 1
 					ForgeCaps: {
@@ -18,17 +32,62 @@
 							cs.aquaSkin: 0
 						}
 					}
-					id: "minecraft:enchanted_golden_apple"
+					id: "celestisynth:celestial_netherite_ingot"
 				}
 				type: "item"
 			}
+		]
+		tasks: [
 			{
 				entity: "cataclysm:abyss_mark"
 				id: "1CF4130922BAAF28"
 				type: "kill"
-				value: 100L
+				value: 1L
+			}
+			{
+				entity: "cataclysm:blazing_bone"
+				id: "3A4A195CAC7E5F77"
+				type: "kill"
+				value: 1L
+			}
+			{
+				entity: "cataclysm:bolt_strike"
+				id: "2E88B8CE3331F8A2"
+				type: "kill"
+				value: 1L
+			}
+			{
+				entity: "cataclysm:eye_of_dungeon"
+				id: "048F0B0DBAB8711C"
+				type: "kill"
+				value: 1L
+			}
+			{
+				entity: "cataclysm:poison_dart"
+				id: "401FD6FD5A78B7C6"
+				type: "kill"
+				value: 1L
+			}
+			{
+				entity: "cataclysm:screen_shake"
+				id: "72EFAED659FBAF03"
+				type: "kill"
+				value: 1L
+			}
+			{
+				entity: "cataclysm:the_leviathan_tongue"
+				id: "2D4090305107F95A"
+				type: "kill"
+				value: 1L
+			}
+			{
+				entity: "cataclysm:wall_watcher"
+				id: "735972D5C85D0D26"
+				type: "kill"
+				value: 1L
 			}
 		]
+		title: "Derrota todos los mobs del cataclysm"
 		x: 0.5d
 		y: -3.0d
 	}]

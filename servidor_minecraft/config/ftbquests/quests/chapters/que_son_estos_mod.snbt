@@ -424,24 +424,6 @@
 			x: 4.5d
 			y: 2.0d
 		}
-		{
-			id: "212014390271CEB1"
-			tasks: [{
-				id: "2B027479B24EFA14"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
-						}
-					}
-					id: "celestisynth:celestial_crafting_table"
-				}
-				type: "item"
-			}]
-			x: 0.0d
-			y: 4.5d
-		}
 	]
 	title: "Que son estos mods ?¿?¿?"
 }

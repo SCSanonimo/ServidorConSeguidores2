@@ -1181,6 +1181,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2025-01-06 07:32:01 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/decorations/starlit_factory": {
     "criteria": {
       "has_item": "2025-01-06 07:20:57 +0000"
@@ -1271,9 +1277,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/lower_bone_staff": {
+    "criteria": {
+      "lower_bone_staff": "2025-01-06 07:32:03 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-01-06 07:05:46 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2025-01-06 07:32:02 +0000"
     },
     "done": true
   },
