@@ -10602,3 +10602,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [06Jan2025 20:59:04.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [06Jan2025 20:59:30.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [06Jan2025 20:59:50.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[06Jan2025 21:00:07.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[06Jan2025 21:00:23.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[06Jan2025 21:00:55.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[06Jan2025 21:01:15.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[06Jan2025 21:02:00.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[06Jan2025 21:02:00.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[06Jan2025 21:03:02.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OvdSam has reached the goal [Half a flight]
+[06Jan2025 21:03:06.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OvdSam lost connection: Disconnected
+[06Jan2025 21:03:06.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OvdSam left the game
+[06Jan2025 21:03:06.825] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client OvdSam

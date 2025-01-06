@@ -3293,6 +3293,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-01-06 21:03:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 20:42:26 +0000"
@@ -3308,6 +3314,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 20:41:42 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-01-06 21:03:02 +0000"
     },
     "done": true
   },
@@ -3386,6 +3398,12 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-06 20:41:25 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-01-06 21:03:02 +0000"
     },
     "done": true
   },
