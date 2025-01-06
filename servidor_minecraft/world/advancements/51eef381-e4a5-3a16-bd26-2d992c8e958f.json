@@ -773,6 +773,7 @@
       "minecraft:skeleton": "2025-01-06 10:28:40 +0000",
       "minecraft:vindicator": "2025-01-06 18:56:26 +0000",
       "minecraft:spider": "2025-01-06 11:43:31 +0000",
+      "minecraft:creeper": "2025-01-06 19:09:28 +0000",
       "minecraft:husk": "2025-01-06 18:37:28 +0000",
       "minecraft:cave_spider": "2025-01-06 11:24:41 +0000",
       "minecraft:stray": "2025-01-06 11:04:23 +0000",
@@ -2192,6 +2193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-06 19:14:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 18:53:35 +0000"
@@ -2201,6 +2208,12 @@
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-01-06 18:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-06 19:14:38 +0000"
     },
     "done": true
   },
@@ -2393,6 +2406,18 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-01-06 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-01-06 19:06:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-01-06 19:10:37 +0000"
     },
     "done": true
   },
