@@ -68,6 +68,7 @@
       "minecraft:lukewarm_ocean": "2025-01-06 12:04:15 +0000",
       "minecraft:river": "2025-01-06 11:14:46 +0000",
       "minecraft:stony_shore": "2025-01-06 12:04:09 +0000",
+      "minecraft:dripstone_caves": "2025-01-07 14:20:37 +0000",
       "minecraft:swamp": "2025-01-07 13:18:20 +0000",
       "minecraft:cold_ocean": "2025-01-07 14:05:25 +0000",
       "minecraft:forest": "2025-01-06 20:10:36 +0000",
@@ -77,6 +78,7 @@
       "minecraft:warm_ocean": "2025-01-06 19:01:45 +0000",
       "minecraft:flower_forest": "2025-01-07 12:50:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-07 12:24:17 +0000",
+      "minecraft:deep_dark": "2025-01-07 14:22:35 +0000",
       "minecraft:meadow": "2025-01-06 11:15:29 +0000",
       "minecraft:savanna": "2025-01-06 10:59:02 +0000",
       "minecraft:plains": "2025-01-06 11:14:59 +0000"
@@ -3468,9 +3470,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-07 14:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-01-07 12:29:10 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-01-07 14:24:14 +0000"
     },
     "done": true
   },
@@ -3495,6 +3509,12 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-01-07 12:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-07 14:28:56 +0000"
     },
     "done": true
   },
@@ -3540,6 +3560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-07 14:20:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-01-07 13:06:41 +0000"
@@ -3549,6 +3575,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-01-07 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/repent_mirror": {
+    "criteria": {
+      "has_echo_shard": "2025-01-07 14:33:18 +0000"
     },
     "done": true
   },
@@ -3567,6 +3599,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-01-07 14:10:00 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/backtrack_mirror": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-07 14:25:06 +0000"
     },
     "done": true
   },
@@ -3642,6 +3680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-07 14:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-07 12:36:05 +0000"
@@ -3696,9 +3740,21 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/gallop_necklace": {
+    "criteria": {
+      "has_unowned_pendant": "2025-01-07 14:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-07 13:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-07 14:28:56 +0000"
     },
     "done": true
   },
@@ -3729,6 +3785,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-01-07 12:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-07 14:28:56 +0000"
     },
     "done": true
   },
@@ -3798,6 +3860,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-07 14:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-07 14:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-07 14:13:50 +0000"
@@ -3828,6 +3902,18 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-01-07 14:25:05 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-07 14:25:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
     "criteria": {
       "has_sea_serpent_scales_teal": "2025-01-07 12:33:28 +0000"
@@ -3852,6 +3938,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-01-07 14:33:18 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-01-07 14:25:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-07 12:36:05 +0000"
@@ -3873,6 +3971,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-07 13:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-07 14:22:32 +0000"
     },
     "done": true
   },
@@ -3903,6 +4007,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2025-01-07 13:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-07 14:28:56 +0000"
     },
     "done": true
   },
@@ -3981,6 +4091,18 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-07 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-01-07 14:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-07 14:20:39 +0000"
     },
     "done": true
   },

@@ -69,8 +69,10 @@
       "minecraft:river": "2025-01-06 10:26:53 +0000",
       "minecraft:lukewarm_ocean": "2025-01-06 12:04:18 +0000",
       "minecraft:stony_shore": "2025-01-06 10:17:48 +0000",
+      "minecraft:dripstone_caves": "2025-01-07 14:20:56 +0000",
       "minecraft:grove": "2025-01-07 09:48:25 +0000",
       "minecraft:swamp": "2025-01-07 13:18:20 +0000",
+      "minecraft:jagged_peaks": "2025-01-07 14:19:28 +0000",
       "minecraft:cold_ocean": "2025-01-07 14:06:01 +0000",
       "minecraft:forest": "2025-01-06 10:29:54 +0000",
       "minecraft:lush_caves": "2025-01-07 09:45:14 +0000",
@@ -81,6 +83,7 @@
       "minecraft:flower_forest": "2025-01-07 12:50:27 +0000",
       "minecraft:frozen_peaks": "2025-01-07 09:48:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-07 09:28:45 +0000",
+      "minecraft:deep_dark": "2025-01-07 14:22:33 +0000",
       "minecraft:meadow": "2025-01-06 11:15:37 +0000",
       "minecraft:savanna": "2025-01-06 10:17:02 +0000",
       "minecraft:plains": "2025-01-06 10:32:21 +0000"
@@ -793,6 +796,7 @@
       "minecraft:creeper": "2025-01-06 19:09:28 +0000",
       "minecraft:evoker": "2025-01-07 10:20:05 +0000",
       "minecraft:slime": "2025-01-07 13:31:58 +0000",
+      "minecraft:phantom": "2025-01-07 14:19:20 +0000",
       "minecraft:husk": "2025-01-06 18:37:28 +0000",
       "minecraft:cave_spider": "2025-01-06 11:24:41 +0000",
       "minecraft:stray": "2025-01-06 11:04:23 +0000",
@@ -3280,9 +3284,21 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/hidden_bracelet": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 11:55:36 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/cursed_totem": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
     },
     "done": true
   },
@@ -3301,6 +3317,12 @@
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-01-07 13:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-07 14:20:48 +0000"
     },
     "done": true
   },
@@ -3355,6 +3377,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-07 12:09:21 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/knight_shelter": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
     },
     "done": true
   },
@@ -3436,6 +3464,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/war_dead_badge": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2025-01-07 14:18:01 +0000"
@@ -3469,6 +3503,12 @@
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2025-01-07 13:01:45 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/cursed_protector": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
     },
     "done": true
   },
@@ -3544,6 +3584,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/gallop_necklace": {
+    "criteria": {
+      "has_unowned_pendant": "2025-01-07 14:25:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-07 12:10:20 +0000"
@@ -3580,6 +3626,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/abyss_will_badge": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-01-07 12:05:14 +0000"
@@ -3595,6 +3647,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-07 13:37:19 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/shadow_pendant": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
     },
     "done": true
   },
@@ -3658,15 +3716,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-07 14:35:24 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-01-07 13:54:58 +0000"
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/corrupt_badge": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-07 12:10:20 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/angel_pearl": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
     },
     "done": true
   },
@@ -3706,6 +3782,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/sacrificial_object": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-01-07 12:03:39 +0000"
@@ -3718,9 +3800,33 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/soul_box": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-07 14:23:47 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/holy_sword": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/fisherman_necklace": {
     "criteria": {
       "has_tropical_fish": "2025-01-07 14:10:55 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/cursed_talisman": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
     },
     "done": true
   },
@@ -3733,6 +3839,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-01-07 13:41:43 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/lock_of_abyss": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
     },
     "done": true
   },
@@ -3778,9 +3890,21 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/undead_charm": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:30:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-01-07 12:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-07 14:20:48 +0000"
     },
     "done": true
   },
