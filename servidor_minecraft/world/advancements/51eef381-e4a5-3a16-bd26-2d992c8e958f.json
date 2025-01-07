@@ -819,6 +819,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-06 10:36:50 +0000",
+      "baked_potato": "2025-01-07 12:32:09 +0000",
       "apple": "2025-01-06 10:29:05 +0000",
       "bread": "2025-01-06 10:43:50 +0000",
       "golden_apple": "2025-01-06 18:25:43 +0000",
@@ -3229,6 +3230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-07 12:30:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 11:55:36 +0000"
@@ -3241,9 +3248,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-07 12:30:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 11:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-07 12:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-07 12:33:01 +0000"
     },
     "done": true
   },
@@ -3289,15 +3314,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-07 12:30:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
       "has_item": "2025-01-07 12:03:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-07 12:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 11:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-07 12:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-07 12:30:29 +0000"
     },
     "done": true
   },
@@ -3343,6 +3392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-07 12:30:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 11:55:36 +0000"
@@ -3385,6 +3440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-07 12:30:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-01-07 12:03:09 +0000"
@@ -3421,9 +3482,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-07 12:30:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-01-07 12:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-07 12:30:29 +0000"
     },
     "done": true
   },
