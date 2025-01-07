@@ -2769,11 +2769,11 @@
     },
     "done": false
   },
-  "nova_structures:nether/find_piglins": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "nova_structures:piglin_camp": "2025-01-07 08:32:50 +0000"
+      "bastion": "2025-01-07 08:31:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "legendary_monsters:locate_lava_eater": {
     "criteria": {
@@ -2781,15 +2781,45 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-01-07 08:32:50 +0000"
+    },
+    "done": false
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-01-07 08:38:31 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "bastion": "2025-01-07 08:31:43 +0000"
+      "blaze_rod": "2025-01-07 08:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-07 08:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-07 08:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 08:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 08:43:20 +0000"
     },
     "done": true
   },
