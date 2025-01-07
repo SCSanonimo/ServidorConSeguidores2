@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-06 11:15:40 +0000",
+      "minecraft:cherry_grove": "2025-01-07 15:07:48 +0000",
       "minecraft:sunflower_plains": "2025-01-07 13:00:46 +0000",
       "minecraft:birch_forest": "2025-01-07 12:24:51 +0000",
       "minecraft:windswept_hills": "2025-01-07 12:49:31 +0000",
@@ -68,10 +69,14 @@
       "minecraft:lukewarm_ocean": "2025-01-06 12:04:15 +0000",
       "minecraft:river": "2025-01-06 11:14:46 +0000",
       "minecraft:stony_shore": "2025-01-06 12:04:09 +0000",
+      "minecraft:snowy_plains": "2025-01-07 15:06:33 +0000",
       "minecraft:dripstone_caves": "2025-01-07 14:20:37 +0000",
+      "minecraft:grove": "2025-01-07 15:00:05 +0000",
       "minecraft:swamp": "2025-01-07 13:18:20 +0000",
+      "minecraft:jagged_peaks": "2025-01-07 15:04:51 +0000",
       "minecraft:cold_ocean": "2025-01-07 14:05:25 +0000",
       "minecraft:forest": "2025-01-06 20:10:36 +0000",
+      "minecraft:ice_spikes": "2025-01-07 15:07:27 +0000",
       "minecraft:desert": "2025-01-06 18:55:51 +0000",
       "minecraft:jungle": "2025-01-06 12:05:31 +0000",
       "minecraft:ocean": "2025-01-07 12:28:50 +0000",
@@ -740,6 +745,8 @@
       "minecraft:wither_skeleton": "2025-01-07 13:40:03 +0000",
       "minecraft:husk": "2025-01-06 20:04:34 +0000",
       "minecraft:cave_spider": "2025-01-06 11:24:27 +0000",
+      "minecraft:enderman": "2025-01-07 15:07:00 +0000",
+      "minecraft:stray": "2025-01-07 15:06:41 +0000",
       "minecraft:zombie": "2025-01-06 11:55:40 +0000"
     },
     "done": false
@@ -957,12 +964,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "honey_bottle": "2025-01-07 14:12:21 +0000",
+      "cooked_mutton": "2025-01-07 14:40:32 +0000",
       "cooked_beef": "2025-01-06 11:43:22 +0000",
       "baked_potato": "2025-01-07 12:26:28 +0000",
       "beetroot_soup": "2025-01-06 11:07:02 +0000",
       "pumpkin_pie": "2025-01-06 11:29:02 +0000",
       "bread": "2025-01-06 11:17:31 +0000",
       "golden_apple": "2025-01-06 18:23:23 +0000",
+      "golden_carrot": "2025-01-07 15:01:09 +0000",
       "cooked_chicken": "2025-01-06 11:19:10 +0000",
       "enchanted_golden_apple": "2025-01-06 19:58:19 +0000",
       "mushroom_stew": "2025-01-06 11:14:37 +0000",
@@ -3530,6 +3539,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/hidden_bracelet": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2025-01-07 13:23:16 +0000"
@@ -3542,9 +3557,21 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-01-07 14:57:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-01-07 14:10:00 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/cursed_totem": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
     },
     "done": true
   },
@@ -3584,6 +3611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-07 15:08:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
       "has_item": "2025-01-07 12:33:28 +0000"
@@ -3608,9 +3641,21 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/knight_shelter": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-07 13:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-07 15:08:15 +0000"
     },
     "done": true
   },
@@ -3635,6 +3680,12 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-01-07 12:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-07 15:08:15 +0000"
     },
     "done": true
   },
@@ -3668,6 +3719,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/war_dead_badge": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2025-01-07 14:18:29 +0000"
@@ -3683,6 +3740,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-07 14:28:56 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/cursed_protector": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
     },
     "done": true
   },
@@ -3794,6 +3857,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/abyss_will_badge": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-01-07 12:33:29 +0000"
@@ -3809,6 +3878,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-07 13:40:06 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/shadow_pendant": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
     },
     "done": true
   },
@@ -3878,6 +3953,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/corrupt_badge": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-01-07 12:32:39 +0000"
@@ -3905,6 +3986,12 @@
   "graveyard:graveyard/kill_wraith": {
     "criteria": {
       "wraith": "2025-01-07 14:25:05 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/angel_pearl": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
     },
     "done": true
   },
@@ -3956,6 +4043,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/sacrificial_object": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-01-07 12:33:28 +0000"
@@ -3974,6 +4067,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/soul_box": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-01-07 14:22:32 +0000"
@@ -3986,6 +4085,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/holy_sword": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-01-07 12:32:39 +0000"
@@ -3995,6 +4100,12 @@
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2025-01-07 13:00:33 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/cursed_talisman": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
     },
     "done": true
   },
@@ -4031,6 +4142,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-01-07 13:40:47 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/lock_of_abyss": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
     },
     "done": true
   },
@@ -4079,6 +4196,12 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-01-07 14:18:29 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/undead_charm": {
+    "criteria": {
+      "has_nebula_cube": "2025-01-07 14:41:07 +0000"
     },
     "done": true
   },
