@@ -56,6 +56,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-06 10:34:03 +0000",
+      "minecraft:cherry_grove": "2025-01-07 08:27:13 +0000",
+      "minecraft:sunflower_plains": "2025-01-07 08:27:30 +0000",
       "minecraft:bamboo_jungle": "2025-01-06 18:53:23 +0000",
       "minecraft:beach": "2025-01-06 12:04:10 +0000",
       "minecraft:river": "2025-01-06 10:26:53 +0000",
@@ -2760,9 +2762,36 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-01-06 20:19:29 +0000"
+      "minecraft:crimson_forest": "2025-01-07 08:32:12 +0000",
+      "minecraft:soul_sand_valley": "2025-01-06 20:19:29 +0000",
+      "minecraft:nether_wastes": "2025-01-07 08:28:23 +0000",
+      "minecraft:warped_forest": "2025-01-07 08:32:45 +0000"
     },
     "done": false
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-01-07 08:32:50 +0000"
+    },
+    "done": false
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-01-07 08:31:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-07 08:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-07 08:31:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
