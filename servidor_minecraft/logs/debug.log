@@ -6734,3 +6734,97 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [07Jan2025 13:18:05.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [07Jan2025 13:18:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> Ahh
 [07Jan2025 13:18:11.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:17.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:17.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:23.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:28.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 13:18:28.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 13:18:28.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:41.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:42.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:42.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:42.125] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:43.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:45.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:47.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:48.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:49.632] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:49.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:49.776] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:18:50.804] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-102, y=-58, z=155}
+[07Jan2025 13:18:51.088] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[07Jan2025 13:18:51.656] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[07Jan2025 13:18:55.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> basura
+[07Jan2025 13:19:03.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> Upa
+[07Jan2025 13:19:04.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> un dragon
+[07Jan2025 13:19:14.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:19:19.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:19:22.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> impulso xd
+[07Jan2025 13:19:36.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> una manzanita dorada
+[07Jan2025 13:19:38.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:19:41.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> mira por aca
+[07Jan2025 13:19:58.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:19:58.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:20:05.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> xd
+[07Jan2025 13:20:09.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> vamo
+[07Jan2025 13:20:33.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:20:33.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:20:33.822] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:20:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> sio
+[07Jan2025 13:20:53.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> wait
+[07Jan2025 13:21:01.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:21:08.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:21:08.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:21:08.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:21:13.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:21:38.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:21:38.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:21:38.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:22:35.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:07.125] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:14.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:14.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:17.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:28.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 13:23:28.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 13:23:42.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:42.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:42.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:54.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:55.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:57.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:23:58.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:24:16.922] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:24:16.922] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:24:16.922] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:24:16.922] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:24:41.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> El dragon es de fuego
+[07Jan2025 13:25:36.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> xd
+[07Jan2025 13:25:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> estaba probando
+[07Jan2025 13:25:49.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> Da levitacion II durante 1seg
+[07Jan2025 13:26:27.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:26:31.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:26:31.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:02.621] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:14.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:14.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:17.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> espera
+[07Jan2025 13:27:17.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> ten
+[07Jan2025 13:27:27.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:27.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:27.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:30.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:30.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:31.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:31.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:31.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:34.403] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:48.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:27:53.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> XDD
+[07Jan2025 13:27:54.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> JAKSJA
+[07Jan2025 13:28:04.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[07Jan2025 13:28:07.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> eso sirve
+[07Jan2025 13:28:13.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> para hacer el nucleo este raro
+[07Jan2025 13:28:18.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> mira otro arbo
+[07Jan2025 13:28:19.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OvdSam> AJSKJAS
+[07Jan2025 13:28:20.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already

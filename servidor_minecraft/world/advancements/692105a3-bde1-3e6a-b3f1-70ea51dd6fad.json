@@ -68,6 +68,7 @@
       "minecraft:lukewarm_ocean": "2025-01-06 12:04:15 +0000",
       "minecraft:river": "2025-01-06 11:14:46 +0000",
       "minecraft:stony_shore": "2025-01-06 12:04:09 +0000",
+      "minecraft:swamp": "2025-01-07 13:18:20 +0000",
       "minecraft:forest": "2025-01-06 20:10:36 +0000",
       "minecraft:desert": "2025-01-06 18:55:51 +0000",
       "minecraft:jungle": "2025-01-06 12:05:31 +0000",
@@ -727,6 +728,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-06 18:56:13 +0000",
       "minecraft:skeleton": "2025-01-06 12:11:14 +0000",
+      "minecraft:vindicator": "2025-01-07 13:23:14 +0000",
       "minecraft:spider": "2025-01-06 12:05:39 +0000",
       "minecraft:piglin_brute": "2025-01-06 20:29:05 +0000",
       "minecraft:creeper": "2025-01-06 11:04:54 +0000",
@@ -3497,6 +3499,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-07 13:23:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
       "has_item": "2025-01-07 12:32:25 +0000"
@@ -3530,6 +3538,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-07 12:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-07 13:18:53 +0000"
     },
     "done": true
   },
@@ -3611,9 +3625,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-07 13:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-07 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-07 13:18:53 +0000"
     },
     "done": true
   },
@@ -3641,6 +3667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-07 13:23:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-01-07 12:32:39 +0000"
@@ -3662,6 +3694,12 @@
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-01-07 12:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-07 13:18:53 +0000"
     },
     "done": true
   },
@@ -3701,6 +3739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-07 13:18:53 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-01-07 12:42:54 +0000"
@@ -3719,6 +3763,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-07 13:23:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-07 13:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-07 13:23:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-01-07 12:37:52 +0000"
@@ -3734,6 +3796,12 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-01-07 12:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-07 13:18:53 +0000"
     },
     "done": true
   },
