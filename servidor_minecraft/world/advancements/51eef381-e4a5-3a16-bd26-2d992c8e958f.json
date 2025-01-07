@@ -791,6 +791,7 @@
       "minecraft:spider": "2025-01-06 11:43:31 +0000",
       "minecraft:creeper": "2025-01-06 19:09:28 +0000",
       "minecraft:evoker": "2025-01-07 10:20:05 +0000",
+      "minecraft:slime": "2025-01-07 13:31:58 +0000",
       "minecraft:husk": "2025-01-06 18:37:28 +0000",
       "minecraft:cave_spider": "2025-01-06 11:24:41 +0000",
       "minecraft:stray": "2025-01-06 11:04:23 +0000",
@@ -3288,6 +3289,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-07 13:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-01-07 13:05:20 +0000"
@@ -3327,6 +3334,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-07 12:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-07 13:41:43 +0000"
     },
     "done": true
   },
@@ -3426,6 +3439,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-01-07 13:40:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-01-07 12:30:29 +0000"
@@ -3480,6 +3499,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-07 13:27:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 11:55:36 +0000"
@@ -3498,6 +3523,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-07 13:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-07 13:37:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
     "criteria": {
       "has_sea_serpent_scales_red": "2025-01-07 12:05:14 +0000"
@@ -3507,6 +3544,12 @@
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 11:55:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-01-07 13:33:23 +0000"
     },
     "done": true
   },
@@ -3537,6 +3580,12 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-01-07 12:03:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-07 13:27:56 +0000"
     },
     "done": true
   },
@@ -3594,9 +3643,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-07 13:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-07 13:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-01-07 13:41:43 +0000"
     },
     "done": true
   },
