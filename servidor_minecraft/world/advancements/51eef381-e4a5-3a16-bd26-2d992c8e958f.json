@@ -71,6 +71,7 @@
       "minecraft:stony_shore": "2025-01-06 10:17:48 +0000",
       "minecraft:grove": "2025-01-07 09:48:25 +0000",
       "minecraft:swamp": "2025-01-07 13:18:20 +0000",
+      "minecraft:cold_ocean": "2025-01-07 14:06:01 +0000",
       "minecraft:forest": "2025-01-06 10:29:54 +0000",
       "minecraft:lush_caves": "2025-01-07 09:45:14 +0000",
       "minecraft:desert": "2025-01-06 18:53:28 +0000",
@@ -822,6 +823,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-07 14:05:58 +0000",
+      "cooked_mutton": "2025-01-07 14:14:52 +0000",
       "cooked_beef": "2025-01-06 10:36:50 +0000",
       "baked_potato": "2025-01-07 12:32:09 +0000",
       "apple": "2025-01-06 10:29:05 +0000",
@@ -3259,6 +3262,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-01-07 14:06:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 11:55:36 +0000"
@@ -3319,6 +3328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-07 14:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-01-07 12:33:01 +0000"
@@ -3358,6 +3373,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 11:55:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-01-07 14:18:01 +0000"
     },
     "done": true
   },
@@ -3403,9 +3424,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-01-07 14:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-07 13:10:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-01-07 14:18:01 +0000"
     },
     "done": true
   },
@@ -3460,6 +3493,12 @@
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2025-01-07 13:40:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-07 14:16:56 +0000"
     },
     "done": true
   },
@@ -3679,6 +3718,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/fisherman_necklace": {
+    "criteria": {
+      "has_tropical_fish": "2025-01-07 14:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-07 13:04:56 +0000"
@@ -3703,6 +3748,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-07 14:18:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-01-07 12:40:33 +0000"
@@ -3718,6 +3769,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-01-07 12:03:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-07 14:18:01 +0000"
     },
     "done": true
   },

@@ -69,6 +69,7 @@
       "minecraft:river": "2025-01-06 11:14:46 +0000",
       "minecraft:stony_shore": "2025-01-06 12:04:09 +0000",
       "minecraft:swamp": "2025-01-07 13:18:20 +0000",
+      "minecraft:cold_ocean": "2025-01-07 14:05:25 +0000",
       "minecraft:forest": "2025-01-06 20:10:36 +0000",
       "minecraft:desert": "2025-01-06 18:55:51 +0000",
       "minecraft:jungle": "2025-01-06 12:05:31 +0000",
@@ -953,6 +954,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-01-07 14:12:21 +0000",
       "cooked_beef": "2025-01-06 11:43:22 +0000",
       "baked_potato": "2025-01-07 12:26:28 +0000",
       "beetroot_soup": "2025-01-06 11:07:02 +0000",
@@ -3484,6 +3486,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-01-07 14:05:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-01-07 12:35:35 +0000"
@@ -3511,6 +3519,12 @@
   "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
       "has_item": "2025-01-07 12:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-07 14:10:00 +0000"
     },
     "done": true
   },
@@ -3550,15 +3564,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-01-07 14:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-07 13:40:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-07 14:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-07 13:18:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-01-07 14:18:29 +0000"
     },
     "done": true
   },
@@ -3586,9 +3618,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-01-07 14:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-07 13:40:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-01-07 14:18:29 +0000"
     },
     "done": true
   },
@@ -3712,6 +3756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-07 14:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-01-07 13:23:16 +0000"
@@ -3748,9 +3798,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-07 14:13:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-01-07 12:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-07 14:10:00 +0000"
     },
     "done": true
   },
@@ -3868,9 +3930,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-07 14:13:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-07 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-07 14:18:29 +0000"
     },
     "done": true
   },
@@ -3889,6 +3963,12 @@
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2025-01-07 13:02:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-07 14:18:29 +0000"
     },
     "done": true
   },
