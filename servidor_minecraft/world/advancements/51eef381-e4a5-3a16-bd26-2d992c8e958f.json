@@ -780,6 +780,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-06 18:56:10 +0000",
       "minecraft:skeleton": "2025-01-06 10:28:40 +0000",
+      "minecraft:ravager": "2025-01-07 10:15:42 +0000",
       "minecraft:vindicator": "2025-01-06 18:56:26 +0000",
       "minecraft:spider": "2025-01-06 11:43:31 +0000",
       "minecraft:creeper": "2025-01-06 19:09:28 +0000",
@@ -2844,9 +2845,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-01-07 10:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-01-07 09:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-01-07 10:15:57 +0000"
     },
     "done": true
   },
@@ -2889,6 +2902,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2025-01-07 10:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-07 10:10:40 +0000"
     },
     "done": true
   },
@@ -2940,6 +2959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-07 10:15:57 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_illager_mansion": {
     "criteria": {
       "minecraft:woodland_mansion": "2025-01-07 10:00:21 +0000"
@@ -2955,6 +2980,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-07 09:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-01-07 10:10:40 +0000"
     },
     "done": true
   },
@@ -3006,6 +3037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-01-07 10:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-07 09:44:02 +0000"
@@ -3015,6 +3052,12 @@
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-01-07 09:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-01-07 10:15:57 +0000"
     },
     "done": true
   },
@@ -3081,6 +3124,12 @@
   "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-01-07 09:35:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-01-07 10:15:57 +0000"
     },
     "done": true
   },
