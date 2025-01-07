@@ -1,0 +1,17 @@
+{
+	id: "13f3c7af-6d68-3429-ae5c-4c3ca60b6dfd"
+	type: "player"
+	player_name: "ellunes"
+	ranks: {
+		13f3c7af-6d68-3429-ae5c-4c3ca60b6dfd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ellunes"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9E59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
