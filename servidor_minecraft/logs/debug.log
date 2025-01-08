@@ -5732,3 +5732,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [08Jan2025 16:37:59.007] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [08Jan2025 16:38:00.855] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [08Jan2025 16:39:07.805] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[08Jan2025 16:39:52.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[08Jan2025 16:39:52.555] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[08Jan2025 16:40:03.206] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[08Jan2025 16:40:10.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 16:40:10.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 16:40:45.854] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[08Jan2025 16:41:00.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MEGAnonimo lost connection: Disconnected
+[08Jan2025 16:41:00.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MEGAnonimo left the game
+[08Jan2025 16:41:00.716] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MEGAnonimo
+[08Jan2025 16:41:00.717] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MEGAnonimo
+[08Jan2025 16:45:10.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 16:45:10.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
