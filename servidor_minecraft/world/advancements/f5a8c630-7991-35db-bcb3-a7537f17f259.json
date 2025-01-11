@@ -55,9 +55,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-01-11 13:56:32 +0000",
       "minecraft:river": "2025-01-06 10:26:07 +0000",
       "minecraft:stony_shore": "2025-01-06 10:18:36 +0000",
       "minecraft:forest": "2025-01-06 10:29:29 +0000",
+      "minecraft:ocean": "2025-01-11 13:57:18 +0000",
+      "minecraft:meadow": "2025-01-11 13:53:12 +0000",
       "minecraft:savanna": "2025-01-06 10:16:51 +0000",
       "minecraft:plains": "2025-01-06 10:36:12 +0000"
     },
@@ -584,6 +587,7 @@
       "minecraft:skeleton": "2025-01-06 10:28:24 +0000",
       "minecraft:hoglin": "2025-01-11 13:28:20 +0000",
       "minecraft:spider": "2025-01-06 10:28:16 +0000",
+      "minecraft:creeper": "2025-01-11 13:57:52 +0000",
       "minecraft:wither_skeleton": "2025-01-11 13:27:49 +0000",
       "minecraft:husk": "2025-01-06 10:49:13 +0000",
       "minecraft:zombie": "2025-01-06 10:37:32 +0000"
@@ -655,6 +659,7 @@
       "honey_bottle": "2025-01-06 10:48:06 +0000",
       "cooked_beef": "2025-01-06 10:31:25 +0000",
       "tropical_fish": "2025-01-06 10:47:48 +0000",
+      "pumpkin_pie": "2025-01-11 13:52:25 +0000",
       "golden_apple": "2025-01-06 10:31:00 +0000",
       "bread": "2025-01-06 10:43:32 +0000",
       "beetroot": "2025-01-06 10:47:52 +0000",
@@ -1512,6 +1517,36 @@
   "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
       "has_netherite_scrap": "2025-01-11 13:34:40 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2025-01-11 13:55:22 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-11 13:50:46 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-01-11 13:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-11 13:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-11 13:57:52 +0000"
     },
     "done": true
   },
