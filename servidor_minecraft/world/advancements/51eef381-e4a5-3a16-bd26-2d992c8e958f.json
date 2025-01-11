@@ -4182,6 +4182,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-11 14:01:33 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/purified_powder": {
+    "criteria": {
+      "has_the_end_dust": "2025-01-11 14:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-11 14:03:23 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-11 14:03:23 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-01-11 14:10:14 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-01-11 14:10:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
@@ -4194,9 +4230,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
-      "has_flint": "2025-01-11 14:01:33 +0000"
+      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
     },
     "done": true
   },
@@ -4206,21 +4266,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-01-11 14:23:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-11 14:03:23 +0000"
     },
     "done": true
   },
@@ -4239,18 +4287,6 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-11 14:27:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_withered_abomination": {
-    "criteria": {
-      "abomination": "2025-01-11 14:10:36 +0000"
     },
     "done": true
   },
@@ -4278,57 +4314,21 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/levitation_block": {
-    "criteria": {
-      "has_blazing_eye": "2025-01-11 14:34:58 +0000"
-    },
-    "done": true
-  },
   "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:gauntlet": "2025-01-11 14:34:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "bosses_of_mass_destruction:recipes/levitation_block": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/purified_powder": {
-    "criteria": {
-      "has_the_end_dust": "2025-01-11 14:03:16 +0000"
+      "has_blazing_eye": "2025-01-11 14:34:58 +0000"
     },
     "done": true
   },
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2025-01-11 14:34:58 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-11 14:03:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-11 14:13:42 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_soul_fortress_remains": {
-    "criteria": {
-      "soul_fortress": "2025-01-11 14:10:14 +0000"
     },
     "done": true
   },
