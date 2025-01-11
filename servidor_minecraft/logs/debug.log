@@ -5744,3 +5744,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [11Jan2025 09:33:00.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MEGAnonimo left the game
 [11Jan2025 09:33:00.631] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MEGAnonimo
 [11Jan2025 09:33:00.632] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MEGAnonimo
+[11Jan2025 09:35:25.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 09:35:25.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 09:40:25.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 09:40:25.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
