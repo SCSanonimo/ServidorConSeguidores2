@@ -4118,21 +4118,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
-      "has_oxeye_daisy": "2025-01-11 09:32:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-11 09:32:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-11 09:32:14 +0000"
+      "has_pickup_upgrade": "2025-01-11 09:26:56 +0000"
     },
     "done": true
   },
@@ -4142,9 +4130,21 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_pickup_upgrade": "2025-01-11 09:26:56 +0000"
+      "has_cornflower": "2025-01-11 09:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-11 09:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-11 09:32:14 +0000"
     },
     "done": true
   },
